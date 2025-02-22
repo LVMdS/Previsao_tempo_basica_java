@@ -30,7 +30,7 @@ Antes de rodar a aplicação, verifique se você tem:
 
 Obtenha sua chave de API em OpenWeatherMap e substitua o valor no arquivo WeatherService:
 
-private static final String API_KEY = "SUA_CHAVE_DE_API";
+"private static final String API_KEY = "SUA_CHAVE_DE_API";"
 
 Compile e execute a aplicação:
 
